@@ -2,7 +2,7 @@
 
 //compare two json object
 
-var obj1 = { name:"Person 1", age:33 };
+var obj1 = { name:"Person 1", age:32 };
 var obj2 = { age:32, name:"Person 1" };
 
 var flag=true;
